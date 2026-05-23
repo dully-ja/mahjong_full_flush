@@ -9532,3 +9532,11 @@
 301121104|401121103|1111345567999|0|
 303011104|401110303|1111345777999|0|
 401110114|411011104|1111235679999|0|
+
+<!-- 2. 目次の表示場所 -->
+<div id="toc-container" class="sidebar-nav">
+  <p style="font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid #ccc;">目次</p>
+  <ul id="toc-list" style="list-style: none; padding-left: 0;"></ul>
+</div>
+
+<script src="toc.js"></script>
