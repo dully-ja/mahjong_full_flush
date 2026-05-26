@@ -2,14 +2,13 @@
 
 <!-- 1. 検索窓の見た目（サイドバーの上の方に表示されます） -->
 <div class="sidebar-search" style="position: fixed; left: 20px; top: 20px; width: 150px; z-index: 1000; background: #fff; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-/*  <p style="margin: 0; font-size: 0.8em;">手牌13枚入力</p>
+  <p style="margin: 0; font-size: 0.8em;">手牌13枚入力</p>
   <!-- 13桁に達した瞬間に自動実行される設定 -->
 <input type="number" id="decimalInput" style="width: 100%; box-sizing: border-box;" 
        oninput="if(this.value.length === 13) executeSearch()"
        onkeydown="if(event.key === 'Enter') executeSearch()">
   <button onclick="executeSearch()" style="width: 100%; margin-top: 5px;">検索</button>
-  <p id="resultDisplay" style="margin: 5px 0 0 0; font-size: 0.7em; color: #666;"></p>
-*/  
+  <p id="resultDisplay" style="margin: 5px 0 0 0; font-size: 0.7em; color: #666;"></p>  
 </div>
 
 <!-- 2. 目次の表示場所 -->
