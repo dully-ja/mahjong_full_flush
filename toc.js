@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
   const tocList = document.getElementById('toc-list');
-  const headers = document.querySelectorAll('h1, h2');
+  const headers = document.querySelectorAll('h2, h3');
 
   headers.forEach((header, index) => {
     if (!header.id) {
