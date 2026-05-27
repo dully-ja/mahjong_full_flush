@@ -26,7 +26,7 @@
     position: fixed;
     left: 20px;
     top: 150px; /* 検索窓の下に配置 */
-    width: 150px;
+    width: 250px;
     max-height: 60vh;
     overflow-y: auto;
     background: #f9f9f9;
