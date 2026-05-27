@@ -8,12 +8,12 @@
 
 <style>
 @media (min-width: 1000px) {
-  body { padding-left: 250px; }
+  body { padding-left: 280px; }
   .sidebar-nav {
     position: fixed;
     left: 20px;
     top: 20px; /* 検索窓削除により上に詰めた */
-    width: 150px;
+    width: 180px;
     max-height: 80vh; /* 検索窓がなくなった分、縦幅を広げてもOK */
     overflow-y: auto;
     background: #f9f9f9;
