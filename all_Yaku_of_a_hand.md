@@ -13,7 +13,7 @@
     position: fixed;
     left: 20px;
     top: 20px; /* 検索窓削除により上に詰めた */
-    width: 200px;
+    width: 220px;
     max-height: 80vh; /* 検索窓がなくなった分、縦幅を広げてもOK */
     overflow-y: auto;
     background: #f9f9f9;
