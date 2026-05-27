@@ -39,7 +39,7 @@ layout: default
 <style>
 /* 以前お伝えしたCSSをそのまま、あるいは微調整してここに置く */
 @media (min-width: 1000px) {
-  body { padding-left: 250px; }
+  body { padding-left: 200px; }
   .sidebar-nav {
     position: fixed;
     left: 20px;
